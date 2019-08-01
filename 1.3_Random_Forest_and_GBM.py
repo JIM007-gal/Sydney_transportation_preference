@@ -3,7 +3,7 @@
 """
 Created on Tue Jan 15 19:05:20 2019
 
-@author: chase.kusterer
+@author: jaime.iglesias
 
 Purpose: To practice ensemble modeling.
 """
