@@ -3,7 +3,7 @@
 """
 Created on Mon Jan 14 15:23:29 2019
 
-@author: chase.kusterer
+@author: jaime.iglesias
 """
 
 
@@ -50,7 +50,6 @@ print('Testing Score:', c_tree_fit.score(X_test, y_test).round(4))
 
 
 """
-Prof. Chase:
     As with before, the trees are predicting well on the trianing data but
     are not generalizing well. We could go through a trial and error process in
     order to find an optimal depth level and/or leaf sizes, but it would be
@@ -100,7 +99,6 @@ print("Tuned Logistic Regression Accuracy:", c_tree_1_hp_cv.best_score_.round(4)
 
 
 """
-Prof. Chase:
     Let's extend our grid search to take on another
     hyperparameter: min_samples_leaf
 """
