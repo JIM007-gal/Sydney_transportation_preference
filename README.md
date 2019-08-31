@@ -5,6 +5,6 @@ To come up with such insights, a dataset encompassing 330 observations and 4 fea
 
 After the previous feature selection, a thorough analysis led to interesting insights. Among the factors with the highest impact are train cost and car trip duration. Picture a pouring day before deciding what means to choose for commuting. If the train ticket is reduced by $1, there is a 10.5% increase in the odds of choosing train, and for each minute increase in the car trip duration due to rain, there is an increase of 6% in odds.
 
-In consequence, a smart strategy would be to reduce one-way ticket prices by $1.50. The initiative would increase train odds on sunny days by 15%. Moreover, a 55% increase in odds would be achieved on bad weather days— those with around 5-minutes delays on car trips. As a result, an evident decrease in traffic, and therefore in pollution. 
+In consequence, a smart strategy would be to reduce one-way ticket prices by $1.50 for ocassional train commuters. The initiative would increase train odds on sunny days by 15%. Moreover, a 55% increase in odds would be achieved on bad weather days—those with around 5-minutes delays on car trips. As a result, an evident decrease in traffic, and therefore in pollution. 
 
 In terms of profits, the impact magnitude of the campaign will depend on the number of converted commuters as well as on the discounted tickets’ contribution margins. In addition, a spike in profits could arise from traffic reduction subsidies negotiated with the city hall.
